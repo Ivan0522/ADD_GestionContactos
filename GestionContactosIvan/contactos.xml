@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><contactos>
+    <contacto>
+        <nombre>Ivan</nombre><telefono>653 879745</telefono><direccion>Calle 57a</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Paco</nombre><telefono>653 454562</telefono><direccion>Via El Gran Paco</direccion>
+    </contacto>
+    <contacto>
+        <nombre>Paco</nombre><telefono>652 396852</telefono><direccion>Calle Nueva</direccion>
+    </contacto>
+</contactos>
