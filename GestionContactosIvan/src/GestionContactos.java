@@ -112,6 +112,7 @@ public class GestionContactos {
             if (!contactosEncontrados.isEmpty()) {
                 int contadorContacto = 1;
                 System.out.println("Contactos encontrados:");
+                // Foreach para extracer cada contacto
                 for (Element contacto : contactosEncontrados) {
                     String nombre = contacto.getElementsByTagName("nombre").item(0).getTextContent();
                     String telefono = contacto.getElementsByTagName("telefono").item(0).getTextContent();

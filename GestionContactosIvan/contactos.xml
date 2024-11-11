@@ -5,7 +5,5 @@
     <contacto>
         <nombre>Paco</nombre><telefono>653 454562</telefono><direccion>Via El Gran Paco</direccion>
     </contacto>
-    <contacto>
-        <nombre>Paco</nombre><telefono>652 396852</telefono><direccion>Calle Nueva</direccion>
-    </contacto>
+    
 </contactos>
